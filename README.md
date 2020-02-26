@@ -29,3 +29,15 @@ git commit -m 文件描述
 git log
 ```
 
+查看所有历史版本:
+
+```
+git reflog
+```
+
+从远程克隆到本地
+
+```
+git clone 远程仓库地址
+```
+
