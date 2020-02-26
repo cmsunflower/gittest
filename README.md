@@ -29,5 +29,3 @@ git commit -m 文件描述
 git log
 ```
 
-reset命令
-
